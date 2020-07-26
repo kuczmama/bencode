@@ -1,0 +1,18 @@
+{
+  "name": "bencode",
+  "version": "1.0.0",
+  "description": "Zero Dependency Bencode de/encoder",
+  "main": "lib",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "author": "Mark Kuczmarski",
+  "license": "MIT",
+  "keywords": [
+    "bdecode",
+    "bencode",
+    "bencoding",
+    "bittorrent",
+    "torrent"
+  ]
+}
