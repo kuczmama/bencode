@@ -8,6 +8,10 @@
   },
   "author": "Mark Kuczmarski",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kuczmama/bencode.git"
+  },
   "keywords": [
     "bdecode",
     "bencode",
