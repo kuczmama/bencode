@@ -4,7 +4,7 @@
   "description": "Zero Dependency Bencode de/encoder",
   "main": "lib",
   "scripts": {
-    "test": "node test/test.js"
+    "test": "node test/index.test.js"
   },
   "author": "Mark Kuczmarski",
   "license": "MIT",
